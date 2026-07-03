@@ -58,7 +58,7 @@ During arithmetic operations, the PSR is updated to simulate changes in the proc
 
 ## Project images
 
-[Click here to check out the project images](images/simple_cpu_instruction_simulator_photos1.png)
+![Click here to check out the project images](images/simple_cpu_instruction_simulator_photos1.png)
 
 
 ## Instructions Used
