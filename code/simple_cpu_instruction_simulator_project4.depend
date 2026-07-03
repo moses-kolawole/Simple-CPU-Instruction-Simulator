@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1783096976 source:c:\users\public\downloads\it 400 level second semester\second face\c programming during the second phase of the it\fri 3rd july\simple_cpu_instruction_simulator_project4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
